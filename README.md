@@ -41,7 +41,7 @@ currently:
   building: OpsIQ · ShiftSense AI · PRD Generator
 
 previously:
-  - Product Owner @ AGCO GmbH (PIM & E-Commerce, 5 EU markets, 12 months)
+  - Product Owner @ AGCO GmbH (PIM & E-Commerce, 5 EU markets, 10 months - Maternity Cover)
   - Agile PM & Change Enablement @ Robert Bosch GmbH, Stuttgart
 
 education:
@@ -153,7 +153,7 @@ seeking:
 
 | Role | Sector | Location |
 |---|---|---|
-| **Product Owner** | Logistics · E-Commerce · Enterprise SaaS | Germany (DE, Munich, Stuttgart, Frankfurt, Hamburg) |
+| **Product Owner** | Logistics · E-Commerce · Enterprise SaaS | Germany (DE, Munich, Stuttgart, Frankfurt, Hamburg, Hannover, Hybrid Location) |
 | **Operations Analyst** | Manufacturing · Supply Chain · Fulfilment | Bavaria preferred · Hybrid / Remote considered |
 | **Digital Transformation** | Industrial · Mittelstand · Scale-up | Germany-wide · English-friendly teams |
 
