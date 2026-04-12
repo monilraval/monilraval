@@ -17,10 +17,6 @@
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
-<a href="mailto:monilraval@gmail.com">
-  <img src="https://img.shields.io/badge/Email-monilraval%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white"/>
-</a>
-&nbsp;
 <a href="https://monilraval.github.io">
   <img src="https://img.shields.io/badge/Portfolio-Live-F0A500?style=flat&logo=githubpages&logoColor=white"/>
 </a>
