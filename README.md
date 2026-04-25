@@ -59,6 +59,7 @@ seeking:
 | Project | What It Does | Stack | Live |
 |---|---|---|---|
 | 🧠 **[OpsIQ](https://github.com/monilraval/ops-intel)** | World-first interactive Product Operations Intelligence Suite — 7 live modules: KPI dashboard, shift simulator, A3 bottleneck analysis, RICE prioritiser, backlog analyser, sprint roadmap | HTML · CSS · JS · Canvas API | **[▶ Live Demo](https://monilraval.github.io/ops-intel.html)** |
+| 📊 **[PIM Quality Monitor](https://github.com/monilraval/pim-quality-monitor)** | B2B PIM data quality intelligence dashboard — 102,847 SKUs, 50 markets, 6 modules: completeness scoring, market heatmap, attribute governance, anomaly detection, architecture diagram. Built from real PO experience managing PIM across 5 EU markets. | HTML · SVG · Vanilla JS · CSS | **[▶ Live Demo](https://monilraval.github.io/pim-quality-monitor)** |
 | ⚙️ **[ShiftSense AI](https://github.com/monilraval/shiftsense-ai)** | Predicts warehouse demand peaks and recommends staffing levels — built from 400+ Amazon EU shifts | Python · scikit-learn · pandas · Streamlit | In Progress |
 | 📄 **[PRD Generator](https://github.com/monilraval/PRD-Generator)** | AI-powered tool that generates complete PRDs from a plain-language feature description in under 5 minutes — built from frustration as PO at AGCO | Python · LLM APIs · Prompt Eng. | [View Repo](https://github.com/monilraval/PRD-Generator) |
 
