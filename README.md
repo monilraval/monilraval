@@ -33,7 +33,7 @@ location:   Kaufbeuren, Bavaria, Germany 🇩🇪
 languages:  English (C1) · German (B1, advancing) · Gujarati (Native)
 
 currently:
-  role:     L1 Operations Associate @ Amazon EU, Graben
+  role:     Operations Lead Associate @ Amazon EU, Graben
   building: OpsIQ · ShiftSense AI · PRD Generator
 
 previously:
