@@ -114,7 +114,7 @@ seeking:
                 L1 Operations Associate · Strategic ground-up ops experience
                 └── 400+ shifts · KPI analysis · A3 bottleneck documentation
                 
-2025 ────────── Building in Public
+2025 ────────── Building in Public continues
                 OpsIQ · ShiftSense AI · PRD Generator
                 └── Open source · Real problems · German market focus
 ```
