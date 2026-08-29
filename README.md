@@ -92,24 +92,27 @@ seeking:
 ## 💼 Career Timeline
 
 ```
-2022 ────────── Robert Bosch GmbH, Stuttgart
-                Working Student · Agile PM & Change Enablement
+2021 ────────── Started MBA & Engineering — Hof University (2021–2024)
+                Operational Excellence + IT · Dual Degree
+
+2022 ────────── Robert Bosch GmbH, Stuttgart · Sept 2022–Feb 2023
+                Process Excellence Intern · Purchase to Pay 2
                 └── SaaS rollout · governance frameworks · 200+ users
                 
-2023 ────────── AGCO GmbH, Marktoberdorf (Fendt)
-                Product Owner · PIM & E-Commerce
+2023 ────────── AGCO GmbH, Marktoberdorf (Fendt) · Nov 2023–Aug 2024
+                Product Owner-PIM · PIM & E-Commerce
                 └── 127 stories · 5 EU markets · 3 on-time releases · ~40% data error reduction
-                
-2024 ────────── MBA & Engineering — Hof University ✅
-                Operational Excellence + IT · Dual Degree
-                
-2024 ────────── Amazon EU, Graben (Fulfillment Centre)
-                L1 Operations Associate · Strategic ground-up ops experience
-                └── 400+ shifts · KPI analysis · A3 bottleneck documentation
-                
-2025 ────────── Founded ClarusHorizon
+
+2023 ────────── Founded ClarusHorizon (ongoing)
                 AI platform + tools for product practitioners
                 └── Live site · Acceptance Criteria Writer · Gumroad prompt pack · 11-agent execution system
+                
+2024 ────────── MBA & Engineering — Hof University ✅
+                Completed
+
+2024 ────────── Amazon EU, Graben (Fulfillment Centre) · Dec 2024–Aug 2026
+                L1 Operations Associate · Strategic ground-up ops experience
+                └── 400+ shifts · KPI analysis · A3 bottleneck documentation
                 
 2025 ────────── Building in Public
                 OpsIQ · ShiftSense AI · PRD Generator
