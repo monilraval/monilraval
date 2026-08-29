@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Monil%20Raval&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Product%20Owner%20%7C%20Operations%20%7C%20AI%20Builder%20%7C%20Bavaria%2C%20Germany&descAlignY=55&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Monil%20Raval&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Product%20Owner%20%7C%20Founder%2C%20ClarusHorizon%20%7C%20Operations%20%7C%20Bavaria%2C%20Germany&descAlignY=55&descSize=16" width="100%"/>
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F0A500&center=true&vCenter=true&width=700&lines=Product+Owner+%40+AGCO+GmbH+%E2%80%94+EU+Multi-Country;Operations+Associate+%40+Amazon+EU;MBA+%2B+MSc+IT+%E2%80%94+Hof+University+%2B+GLS;Building+AI+Tools+for+Operations+%26+Product;Open+to+PO+%2F+Ops+Analyst+Roles+in+Germany+%F0%9F%87%A9%F0%9F%87%AA" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F0A500&center=true&vCenter=true&width=700&lines=Product+Owner+%40+AGCO+GmbH+%E2%80%94+EU+Multi-Country;Operations+Associate+%40+Amazon+EU;Founder+%40+ClarusHorizon+%E2%80%94+AI+Tools+for+POs;MBA+%2B+MSc+IT+%E2%80%94+Hof+University+%2B+GLS;Open+to+PO+%2F+Ops+Analyst+Roles+in+Germany+%F0%9F%87%A9%F0%9F%87%AA" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -15,6 +15,10 @@
 &nbsp;
 <a href="https://www.linkedin.com/in/monilraval">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://clarushorizon.com">
+  <img src="https://img.shields.io/badge/ClarusHorizon-Visit-1B2A41?style=flat&logo=googlechrome&logoColor=F0A500"/>
 </a>
 &nbsp;
 <a href="https://monilraval.github.io">
@@ -34,6 +38,7 @@ languages:  English (C1) · German (B1, advancing) · Gujarati (Native)
 
 currently:
   role:     Operations Lead Associate @ Amazon EU, Graben
+  founder:  ClarusHorizon — AI tools & platform for product practitioners
   building: OpsIQ · ShiftSense AI · PRD Generator
 
 previously:
@@ -52,13 +57,30 @@ seeking:
 
 ---
 
+## 🧭 ClarusHorizon
+
+<div align="center">
+
+**[clarushorizon.com](https://clarushorizon.com)** — an AI-focused platform built for product practitioners, run as a real venture alongside my day job.
+
+</div>
+
+- Live AI tools for PMs/POs, starting with the **Acceptance Criteria Writer** (see below)
+- A €19 AI prompt pack for PMs — [30 prompts on Gumroad](https://monilraval.gumroad.com/l/mxiib)
+- Execution runs through an **11-agent Claude Project system** (a Chief of Staff, five functional Chiefs, specialist agents, and an independent red-team critic) — I set direction and sign off on everything before it ships; nothing goes live without my review
+- Content principles: no employer names, no hashtags, no AI-sounding writing
+
+---
+
 ## 🚀 Featured Projects
 
 <div align="center">
 
 | Project | What It Does | Stack | Live |
 |---|---|---|---|
-| 🧠 **[OpsIQ](https://github.com/monilraval/ops-intel)** | World-first interactive Product Operations Intelligence Suite — 7 live modules: KPI dashboard, shift simulator, A3 bottleneck analysis, RICE prioritiser, backlog analyser, sprint roadmap | HTML · CSS · JS · Canvas API | **[▶ Live Demo](https://monilraval.github.io/ops-intel.html)** |
+| 🧭 **[ClarusHorizon](https://clarushorizon.com)** | AI-focused platform for product practitioners — live site, AI tools, and a prompt pack for PMs, run on an 11-agent execution system | WordPress · Claude API · Agent Orchestration | **[▶ Visit Site](https://clarushorizon.com)** |
+| ⚡ **[Acceptance Criteria Writer](https://github.com/monilraval/clarushorizon-acceptance-criteria-writer)** | AI tool that generates acceptance criteria from user stories — duplicate-backlog detection, Jira/Azure DevOps formatting, multi-story generation | Claude API · Vercel · Vercel KV | [View Repo](https://github.com/monilraval/clarushorizon-acceptance-criteria-writer) |
+| 🧠 **[OpsIQ](https://github.com/monilraval/ops-intel)** | Interactive Product Operations Intelligence Suite — 7 live modules: KPI dashboard, shift simulator, A3 bottleneck analysis, RICE prioritiser, backlog analyser, sprint roadmap | HTML · CSS · JS · Canvas API | **[▶ Live Demo](https://monilraval.github.io/ops-intel.html)** |
 | 📊 **[PIM Quality Monitor](https://github.com/monilraval/pim-quality-monitor)** | B2B PIM data quality intelligence dashboard — 102,847 SKUs, 50 markets, 6 modules: completeness scoring, market heatmap, attribute governance, anomaly detection, architecture diagram. Built from real PO experience managing PIM across 5 EU markets. | HTML · SVG · Vanilla JS · CSS | **[▶ Live Demo](https://monilraval.github.io/pim-quality-monitor)** |
 | ⚙️ **[ShiftSense AI](https://github.com/monilraval/shiftsense-ai)** | Predicts warehouse demand peaks and recommends staffing levels — built from 400+ Amazon EU shifts | Python · scikit-learn · pandas · Streamlit | In Progress |
 | 📄 **[PRD Generator](https://github.com/monilraval/PRD-Generator)** | AI-powered tool that generates complete PRDs from a plain-language feature description in under 5 minutes — built from frustration as PO at AGCO | Python · LLM APIs · Prompt Eng. | [View Repo](https://github.com/monilraval/PRD-Generator) |
@@ -84,6 +106,10 @@ seeking:
 2024 ────────── Amazon EU, Graben (Fulfillment Centre)
                 L1 Operations Associate · Strategic ground-up ops experience
                 └── 400+ shifts · KPI analysis · A3 bottleneck documentation
+                
+2025 ────────── Founded ClarusHorizon
+                AI platform + tools for product practitioners
+                └── Live site · Acceptance Criteria Writer · Gumroad prompt pack · 11-agent execution system
                 
 2025 ────────── Building in Public
                 OpsIQ · ShiftSense AI · PRD Generator
@@ -171,6 +197,10 @@ Response within 24 hours guaranteed.
 &nbsp;
 <a href="mailto:monilraval@gmail.com">
   <img src="https://img.shields.io/badge/Email-monilraval%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://clarushorizon.com">
+  <img src="https://img.shields.io/badge/ClarusHorizon-Visit%20Site-1B2A41?style=for-the-badge&logo=googlechrome&logoColor=F0A500"/>
 </a>
 &nbsp;
 <a href="https://monilraval.github.io">
